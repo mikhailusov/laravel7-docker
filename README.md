@@ -18,8 +18,8 @@ Forked from: https://github.com/TrafeX/docker-php-nginx
 * Ready to be used for Laravel 7 deployments
 
 
-#[![Docker Pulls](https://img.shields.io/docker/pulls/trafex/alpine-nginx-php7.svg)](https://hub.docker.com/r/trafex/alpine-nginx-php7/)
-#[![Docker image layers](https://images.microbadger.com/badges/image/trafex/alpine-nginx-php7.svg)](https://microbadger.com/images/trafex/alpine-nginx-php7)
+[![Docker Pulls](https://img.shields.io/docker/pulls/musovx/laravel7-docker.svg)](https://hub.docker.com/r/musovx/laravel7-docker)
+[![Docker image layers](https://images.microbadger.com/badges/image/musovx/laravel7-docker.svg)](https://microbadger.com/images/musovx/laravel7-docker.svg)
 ![nginx 1.16.1](https://img.shields.io/badge/nginx-1.16-brightgreen.svg)
 ![php 7.3](https://img.shields.io/badge/php-7.3-brightgreen.svg)
 ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)

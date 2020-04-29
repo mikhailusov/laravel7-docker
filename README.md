@@ -52,7 +52,7 @@ Run docker image:
 
     $ docker run -p 80:8080 laravel7-docker
 
-See the PHP info on http://localhost
+See your Laravel home page at http://localhost
 
 Or mount your own code to be served by PHP-FPM & Nginx
 

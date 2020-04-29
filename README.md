@@ -2,7 +2,7 @@
 This is fork of [docker-php-nginx](https://github.com/TrafeX/docker-php-nginx) repo
 with some changes for supporting Laravel 7 framework, it includes all required PHP libs and composer.
 PHP-FPM 7.3 & Nginx 1.16 setup for Docker, build on [Alpine Linux](http://www.alpinelinux.org).
-The image is only +/- 35MB large.
+The image is only +/- 43MB large.
 
 GitHub repo: https://github.com/mikhailusov/laravel7-docker
 Forked from: https://github.com/TrafeX/docker-php-nginx
@@ -19,7 +19,7 @@ Forked from: https://github.com/TrafeX/docker-php-nginx
 
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/musovx/laravel7-docker.svg)](https://hub.docker.com/r/musovx/laravel7-docker)
-[![Docker image layers](https://images.microbadger.com/badges/image/musovx/laravel7-docker.svg)](https://microbadger.com/images/musovx/laravel7-docker.svg)
+[![Docker image layers](https://images.microbadger.com/badges/image/musovx/laravel7-docker.svg)](https://microbadger.com/images/musovx/laravel7-docker)
 ![nginx 1.16.1](https://img.shields.io/badge/nginx-1.16-brightgreen.svg)
 ![php 7.3](https://img.shields.io/badge/php-7.3-brightgreen.svg)
 ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
